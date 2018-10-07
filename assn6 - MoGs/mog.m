@@ -1,6 +1,6 @@
 %% HW06 mog
 clear
-K = 7;
+K = 3;
 %%
 plane = 'plane.jpg';
 tiger = 'tiger.jpg';
